@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIdsManager.a CMakeFiles/IdsManager.dir/IdsManager.cpp.o
+/usr/bin/ranlib libIdsManager.a
